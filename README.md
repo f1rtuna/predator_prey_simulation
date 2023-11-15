@@ -9,7 +9,7 @@ Breed. If an ant survives for three time steps, then at the end of the time step
 
 
 The bugs behave according to the following model:
-Move. Every time step, if there is an adjacent ant (up, down, left, or right), then the doodlebug will move to that cell and eat the ant. Otherwise, the doodlebug moves according to the same rules as the ant. Note that a doodlebug cannot eat other doodlebugs.
+Move. Every time step, if there is an adjacent ant (up, down, left, or right), then the bug will move to that cell and eat the ant. Otherwise, the bug moves according to the same rules as the ant. Note that a bug cannot eat other doodlebugs.
 
 Breed. If a bug survives for eight time steps, then at the end of the time step it will spawn off a new bug in the same manner as the ant.
 
